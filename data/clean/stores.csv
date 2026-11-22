@@ -1,0 +1,15 @@
+store_id,store_name,city,region,channel
+S01,SmartMart Clifton,Karachi,South,Store
+S02,SmartMart Gulshan,Karachi,South,Store
+S03,SmartMart Hyderabad,Hyderabad,South,Store
+S04,SmartMart Gulberg,Lahore,Punjab,Store
+S05,SmartMart DHA Lahore,Lahore,Punjab,Store
+S06,SmartMart Faisalabad,Faisalabad,Punjab,Store
+S07,SmartMart Multan,Multan,Punjab,Store
+S08,SmartMart Islamabad,Islamabad,North,Store
+S09,SmartMart Peshawar,Peshawar,North,Store
+S10,SmartMart Quetta,Quetta,West,Store
+S11,SmartMart Online Karachi,Karachi,South,Online
+S12,SmartMart Online Lahore,Lahore,Punjab,Online
+S13,SmartMart Online Islamabad,Islamabad,North,Online
+S14,SmartMart Online Peshawar,Peshawar,North,Online

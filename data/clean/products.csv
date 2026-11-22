@@ -1,0 +1,41 @@
+product_id,product_name,category,unit_price,unit_cost
+P001,Smartphone,Electronics,85000,68000
+P002,Laptop,Electronics,140000,118000
+P003,LED TV 43 Inch,Electronics,75000,60000
+P004,Bluetooth Speaker,Electronics,9000,6000
+P005,Wireless Earbuds,Electronics,12000,8000
+P006,Smartwatch,Electronics,18000,12500
+P007,Tablet,Electronics,55000,44000
+P008,Power Bank,Electronics,4500,3000
+P009,Gaming Console,Electronics,95000,82000
+P010,Digital Camera,Electronics,120000,102000
+P011,Men's Kurta,Clothing,4500,2800
+P012,Women's Lawn Suit,Clothing,6500,4000
+P013,Denim Jeans,Clothing,5500,3300
+P014,Cotton T-Shirt,Clothing,1800,950
+P015,Winter Jacket,Clothing,12000,7500
+P016,Sneakers,Clothing,9500,6000
+P017,Formal Shirt,Clothing,4200,2500
+P018,Shalwar Kameez,Clothing,5000,3000
+P019,Hoodie,Clothing,5500,3200
+P020,Leather Belt,Clothing,2200,1200
+P021,Refrigerator,Home Appliances,95000,78000
+P022,Washing Machine,Home Appliances,65000,52000
+P023,Microwave Oven,Home Appliances,28000,21000
+P024,Air Conditioner 1.5 Ton,Home Appliances,140000,115000
+P025,Electric Kettle,Home Appliances,5500,3600
+P026,Iron,Home Appliances,4800,3200
+P027,Vacuum Cleaner,Home Appliances,32000,24000
+P028,Air Fryer,Home Appliances,18000,12500
+P029,Ceiling Fan,Home Appliances,12500,8800
+P030,Water Dispenser,Home Appliances,36000,27500
+P031,Basmati Rice 5kg,Grocery,2400,1900
+P032,Cooking Oil 5L,Grocery,3200,2700
+P033,Tea 950g,Grocery,2600,2100
+P034,Sugar 5kg,Grocery,800,700
+P035,Wheat Flour 10kg,Grocery,1500,1250
+P036,Milk Pack (12x1l),Grocery,3000,2500
+P037,Lentils 1kg,Grocery,450,360
+P038,Family Biscuit Pack,Grocery,900,650
+P039,Spice Mix Pack,Grocery,700,480
+P040,Juice Carton Pack,Grocery,1400,1000

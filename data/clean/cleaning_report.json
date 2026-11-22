@@ -1,0 +1,34 @@
+{
+  "products": {
+    "duplicate_product_rows_removed": 2,
+    "invalid_product_rows_removed": 0,
+    "product_aliases_merged": 3
+  },
+  "stores": {
+    "invalid_or_duplicate_store_rows_removed": 0
+  },
+  "customers": {
+    "duplicate_customer_rows_removed": 25,
+    "customers_missing_name_set_unknown": 15,
+    "customers_missing_city_set_unknown": 30
+  },
+  "transactions": {
+    "rows_in": 15150,
+    "rejected_missing_transaction_id": 0,
+    "exact_duplicates_removed": 150,
+    "duplicate_transaction_id_removed": 0,
+    "dates_reformatted_dmy": 150,
+    "rejected_invalid_date": 15,
+    "rejected_invalid_quantity": 40,
+    "product_ids_remapped_from_alias": 120,
+    "rejected_unknown_product_id": 10,
+    "rejected_unknown_store_id": 0,
+    "missing_discount_filled_with_0": 75,
+    "rejected_invalid_discount": 0,
+    "missing_customer_id_kept_as_guest": 300,
+    "unknown_customer_id_set_to_guest": 0,
+    "rows_out": 14935,
+    "rejected_total": 65,
+    "reconciles": true
+  }
+}

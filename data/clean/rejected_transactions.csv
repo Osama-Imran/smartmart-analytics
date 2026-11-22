@@ -1,0 +1,66 @@
+transaction_id,date,customer_id,product_id,store_id,quantity,discount,payment_method,reject_reason
+T011128,N/A,C0378,P026,S04,1,0.0,Cash,invalid_date
+T006326,31/02/2026,C0890,P031,S14,3,0.1,Card,invalid_date
+T005853,31/02/2026,C0327,P031,S10,4,0.0,Card,invalid_date
+T003987,N/A,C1780,P015,S03,2,0.0,Mobile Wallet,invalid_date
+T014206,31/02/2026,C1269,P011,S08,1,0.1,Cash,invalid_date
+T001099,N/A,C1477,P031,S05,1,0.0,Cash,invalid_date
+T014806,31/02/2026,C1386,P037,S11,4,0.0,Online Transfer,invalid_date
+T010702,31/02/2026,C0426,P004,S01,1,0.0,Mobile Wallet,invalid_date
+T011711,31/02/2026,C0791,P035,S11,1,0.0,Card,invalid_date
+T012480,31/02/2026,C0234,P037,S13,6,0.1,Online Transfer,invalid_date
+T008676,31/02/2026,C0245,P025,S05,1,0.0,Card,invalid_date
+T011483,31/02/2026,C0425,P029,S13,2,0.1,Card,invalid_date
+T002052,31/02/2026,C1552,P018,S04,3,0.1,Cash,invalid_date
+T002939,N/A,C1535,P008,S02,1,0.0,Cash,invalid_date
+T006016,N/A,C1579,P035,S07,4,0.0,Card,invalid_date
+T005216,2025-09-27,C1783,P034,S05,-1,0.1,Online Transfer,invalid_quantity
+T002884,2025-06-03,C0808,P005,S11,0,0.0,Card,invalid_quantity
+T011708,2026-06-23,C1370,P040,S05,0,0.05,Card,invalid_quantity
+T009251,2026-03-19,C1460,P008,S04,-2,0.1,Cash,invalid_quantity
+T009805,2026-04-08,C1571,P029,S05,0,0.0,Cash,invalid_quantity
+T000057,2025-01-04,C0911,P025,S06,-1,0.0,Cash,invalid_quantity
+T007951,2026-01-23,C1685,P036,S13,0,0.0,Card,invalid_quantity
+T002095,2025-04-22,C0250,P035,S12,-1,0.0,Online Transfer,invalid_quantity
+T013576,2026-09-07,C1750,P011,S12,0,0.0,Online Transfer,invalid_quantity
+T000589,2025-02-02,C1111,P038,S01,0,0.15,Cash,invalid_quantity
+T005005,2025-09-18,C0075,P006,S11,-2,0.0,Mobile Wallet,invalid_quantity
+T001475,2025-03-23,C1267,P015,S02,0,0.15,Card,invalid_quantity
+T001578,2025-03-28,C0881,P038,S04,-2,0.05,Mobile Wallet,invalid_quantity
+T007964,2026-01-24,C1213,P008,S09,0,0.2,Card,invalid_quantity
+T007050,2025-12-17,C1085,P023,S07,-2,0.15,Mobile Wallet,invalid_quantity
+T009651,2026-04-02,C1274,P032,S13,0,0.0,Card,invalid_quantity
+T002599,2025-05-18,C0527,P038,S07,-1,0.0,Cash,invalid_quantity
+T006994,2025-12-15,C0509,P025,S08,-2,0.15,Card,invalid_quantity
+T004946,2025-09-15,C1419,P015,S03,-2,0.05,Cash,invalid_quantity
+T004272,2025-08-13,C1410,P034,S06,-1,0.0,Online Transfer,invalid_quantity
+T002422,2025-05-08,C1985,P024,S04,-2,0.05,Online Transfer,invalid_quantity
+T010966,2026-05-23,C0548,P014,S11,-1,0.2,Online Transfer,invalid_quantity
+T000492,2025-01-28,C0044,P040,S05,-2,0.0,Online Transfer,invalid_quantity
+T007707,2026-01-12,C0197,P035,S08,-2,0.0,Cash,invalid_quantity
+T003090,2025-06-13,C1537,P035,S10,-2,0.15,Cash,invalid_quantity
+T000931,2025-02-22,C0808,P032,S02,-2,0.0,Mobile Wallet,invalid_quantity
+T004505,2025-08-24,C1185,P001,S01,0,0.0,Cash,invalid_quantity
+T011516,2026-06-16,C1344,P015,S08,-1,0.0,Cash,invalid_quantity
+T010760,2026-05-14,C0421,P032,S14,-2,0.05,Card,invalid_quantity
+T004738,2025-09-05,C1548,P014,S06,-2,0.05,Cash,invalid_quantity
+T009394,2026-03-24,C1856,P011,S07,-2,0.2,Cash,invalid_quantity
+T009115,2026-03-14,C0636,P018,S02,-1,0.05,Online Transfer,invalid_quantity
+T003071,2025-06-13,C0196,P036,S02,0,0.0,Cash,invalid_quantity
+T003566,2025-07-07,C1270,P035,S13,0,0.0,Card,invalid_quantity
+T008265,2026-02-07,C0183,P035,S13,-1,0.0,Online Transfer,invalid_quantity
+T004361,2025-08-18,C1860,P008,S06,-1,0.0,Card,invalid_quantity
+T004268,2025-08-12,C1896,P035,S02,0,0.0,Cash,invalid_quantity
+T010432,2026-05-02,C1964,P037,S12,-2,0.05,Card,invalid_quantity
+T005915,2025-11-01,C0797,P031,S02,0,0.15,Online Transfer,invalid_quantity
+T004608,2025-08-30,C0619,P033,S02,0,0.05,Cash,invalid_quantity
+T003995,2025-07-29,C1977,P999,S12,1,0.05,Mobile Wallet,unknown_product_id
+T006918,2025-12-12,C0692,P999,S02,6,0.0,Card,unknown_product_id
+T010321,2026-04-27,C1195,P999,S03,1,0.1,Mobile Wallet,unknown_product_id
+T011986,2026-07-03,C1834,P999,S02,2,0.05,Cash,unknown_product_id
+T001507,2025-03-25,C1912,P999,S01,6,0.15,Mobile Wallet,unknown_product_id
+T007067,2025-12-18,C1458,P999,S04,1,0.2,Card,unknown_product_id
+T005324,2025-10-04,C1541,P999,S01,2,0.0,Mobile Wallet,unknown_product_id
+T006022,2025-11-05,C1460,P999,S05,2,0.2,Card,unknown_product_id
+T001986,2025-04-17,C1952,P999,S11,1,0.05,Card,unknown_product_id
+T001462,2025-03-23,C0825,P999,S10,6,0.15,Cash,unknown_product_id
